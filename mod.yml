@@ -1,0 +1,8 @@
+title: Extra HP beep
+originalAuthor: Kangdide
+description:
+assets:
+- name: se\se000.win32.scd
+  method: copy
+  source:
+  - name: se000.win32.scd
